@@ -34,6 +34,8 @@ Perkz e Carzzy sempre escolherão o Tempo Letal como sua runa de pedra-chave. El
 
 Há algumas pequenas mudanças quando se trata de runas menores no Ashe. Estas geralmente mudam dependendo de qual será o primeiro item central. Overheal é quase sempre a primeira runa menor tomada, e é então seguida ou por Legend: Alacrity ou Legend: Bloodline. A runa final na árvore de precisão é Cut Down. Eles acompanham com a árvore Inspiration, tomando Approach Velocity e Biscuit Delivery ou Magical Footwear.
 
+![Ashe Runas](https://images.contentstack.io/v3/assets/bltad9188aa9a70543a/blt7189ea4ec3212ff3/5f92b0d36178a96454529905/Image1.jpg)
+
 ## Item Construir 
 
 Os jogadores do Ashe frequentemente mudam seu primeiro item principal, dependendo dos comps da equipe. Se Ashe tiver que lidar com mais danos devido ao inimigo ter muitos tanques, os jogadores irão para Blade  do Ruined King, e se ela quiser ser mais útil, os jogadores podem pegar um Essence Reaver. Vamos dar uma olhada em como Perkz construiu o Ashe em seu jogo contra o Team Liquid durante sua vitória na fase de grupos no Worlds.
